@@ -28,7 +28,9 @@
   .page1 {
     background-size: cover !important; 
   }
-  
+   .card  img {
+    height:auto !important;
+  }
   .searchResults{
     height: 250px !important;
     width: 100%  !important;
@@ -82,6 +84,9 @@
   }
   .page2 {
     height: inherit !important;
+  }
+   .card  img {
+    height:auto !important;
   }
 }
 

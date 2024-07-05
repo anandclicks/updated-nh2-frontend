@@ -1,36 +1,36 @@
 const listings = [
-  {
-  
-    id: 1,
-    image: "../images/NH²NOD101/1.png",
-    title: "NH²NOD101",
-    city:'Sector 168 Expressway, Gautam Budh Nagar, Noida 201305, Uttar Pradesh ',location: "",
-    pagelink : "../pg-in-noida/Nh2NOD101.html",
-    bed: "15",
-    bath: "4",
-    sqft: 1200,
-    price: "₹5000",
-    oldPrice : "₹7000",
-    ratting : "4.5",
-    rattingStatus : "Excellent",
-    ratedPeapleNumber : "143",
-    cursurStatus : "pointer",
-    forRent: false,
-    tags: ["house", "office"],
-    propertyType:'Houses',yearBuilding:2018,
-    featured:true,
-    lat: 40.7279707552121,
-        long: -74.07152705896405,
-    features:[
-    "Air Conditioning",
-      "Lawn",
-      "TV Cable",
-      "Dryer",
-      //
-
-  ],
-  },
    {
+    
+      id: 1,
+      image: "../images/NH²NOD101/1.png",
+      title: "NH²NOD101",
+      city:'Sector 168 Expressway, Gautam Budh Nagar, Noida 201305, Uttar Pradesh ',location: "",
+      pagelink : "../pg-in-noida/Nh2NOD101.html",
+      bed: "15",
+      bath: "4",
+      sqft: 1200,
+      price: "₹8000",
+      oldPrice : "₹10000",
+      ratting : "4.5",
+      rattingStatus : "Excellent",
+      ratedPeapleNumber : "143",
+      cursurStatus : "pointer",
+      forRent: false,
+      tags: ["house", "office"],
+      propertyType:'Houses',yearBuilding:2018,
+      featured:true,
+      lat: 40.7279707552121,
+          long: -74.07152705896405,
+      features:[
+      "Air Conditioning",
+        "Lawn",
+        "TV Cable",
+        "Dryer",
+        //
+  
+    ],
+    },
+     {
 
     id: 2,
     image: "../images/Nh2NOD416/38.jpg",
@@ -40,8 +40,8 @@ const listings = [
     bed: "15",
     bath: "4",
     sqft: 1200,
-    price: "₹8000",
-    oldPrice : "₹10000",
+    price: "₹5000",
+    oldPrice : "₹7000",
     ratting : "4.5",
     rattingStatus : "Excellent",
     ratedPeapleNumber : "103",

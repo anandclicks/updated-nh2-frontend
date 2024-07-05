@@ -30,7 +30,7 @@ const listings = [
 
   ],
   },
-  {
+   {
 
     id: 2,
     image: "../images/Nh2NOD416/38.jpg",
@@ -40,8 +40,8 @@ const listings = [
     bed: "15",
     bath: "4",
     sqft: 1200,
-    price: "₹5000",
-    oldPrice : "₹7000",
+    price: "₹8000",
+    oldPrice : "₹10000",
     ratting : "4.5",
     rattingStatus : "Excellent",
     ratedPeapleNumber : "103",

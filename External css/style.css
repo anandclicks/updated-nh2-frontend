@@ -205,7 +205,9 @@ h2 {
   border-radius: 5px;
   background-color: #fff;
 }
-
+.card  img {
+  height: 200px;
+}
 .card h4 {
   font-weight: bold;
 }

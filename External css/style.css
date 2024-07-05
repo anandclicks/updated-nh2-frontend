@@ -236,7 +236,7 @@ img.img-fluid {
   height: 250px;
 }
 .page4 {
-  height: 80%;
+  min-height: 80vh;
   background-color: #213F3C;
   color: #fff;
 }

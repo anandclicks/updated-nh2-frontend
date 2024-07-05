@@ -22,7 +22,7 @@ queryForm.forEach(e=> {
     document.querySelector(".sending").style.display = "flex";
 
     try {
-        const response = await fetch("https://updated-nh2-backend.onrender.com", {
+        const response = await fetch("https://backend-for-nh2.onrender.com", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"

@@ -128,7 +128,7 @@ main {
 
 /* page 2  */
 .page2 {
-  height: 90% ;
+  min-height: 90vh ;
   color: #181A20;
 }
 
